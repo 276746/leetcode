@@ -28,7 +28,7 @@ mkdir -p "$DIR"
 FILE="${DIR}/Solution.java"
 
 cat > "$FILE" <<EOF
-package leetcode.${PACKAGE};
+package main.java.leetcode.${PACKAGE};
 
 public class Solution {
     public void solve() {
