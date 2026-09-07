@@ -1,5 +1,7 @@
 package main.java.leetcode.problem0032_maximum_twin_sum_of_a_linked_list;
 
+import main.java.leetcode.datastruct.ListNode;
+
 public class Solution {
     public int pairSum(ListNode head) {
         ListNode slow = head;

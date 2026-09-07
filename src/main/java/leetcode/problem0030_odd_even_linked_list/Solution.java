@@ -1,5 +1,7 @@
 package main.java.leetcode.problem0030_odd_even_linked_list;
 
+import main.java.leetcode.datastruct.ListNode;
+
 public class Solution {
     public ListNode oddEvenList(ListNode head) {
         if (head  == null) return null;

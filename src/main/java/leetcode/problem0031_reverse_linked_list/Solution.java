@@ -1,5 +1,7 @@
 package main.java.leetcode.problem0031_reverse_linked_list;
 
+import main.java.leetcode.datastruct.ListNode;
+
 public class Solution {
     public ListNode reverseList(ListNode head) {
         ListNode reverseList = null;

@@ -1,5 +1,7 @@
 package main.java.leetcode.problem0035_count_good_nodes_in_binary_tree;
 
+import main.java.leetcode.datastruct.TreeNode;
+
 public class Solution {
     public int goodNodes(TreeNode root) {
         if (root == null) return 0;

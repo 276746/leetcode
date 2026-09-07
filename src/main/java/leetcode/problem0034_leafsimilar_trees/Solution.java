@@ -1,6 +1,6 @@
 package main.java.leetcode.problem0034_leafsimilar_trees;
 
-import com.sun.source.tree.Tree;
+import main.java.leetcode.datastruct.TreeNode;
 
 import java.util.ArrayList;
 import java.util.List;
